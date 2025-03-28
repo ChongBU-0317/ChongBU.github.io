@@ -43,17 +43,28 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 #  Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- *2023.08* Third Prize in Shanghai Region, The 15th National Student Advertising Art Competition
+- *2023.03 & 2021.04* Third Class Scholarship
+- *2022.12 & 2020.10* Excellence Award, Academy Award of Advertising Festival of Chinese College Students
+- *2022.09* Outstanding Officer of University Art Troupe
+- *2022.08* Volunteer Activity
+  Participated in the filming of the city promotion film of Baoshan District, Shanghai.
+- *2022.07* Third Prize in Shanghai Region, The 14th National Student Advertising Art Competition
+- *2021.12* University-level Outstanding Student Leader
+- *2021.12* University-level Advanced Individual Award
+- *2021.08* Third Prize of the 6th Shanghai Huichuang Youth Competition
+- *2021.05* Municipal-level First Prize in the 6th National University Art Exhibition
+- *2021.05* Municipal-level Excellent Creation Award in the 6th National University Art Exhibition
+  
 #  Educations
 - *2025.09 - 2026.09 (now)*, University of Manchester, Manchester Britain.
 - *2023.09 - 2024.07*, L'École de design Nantes Atlantique, Nantes France, Bachelor of Fine Arts (BFA) in Digital Media Design.
 - *2020.09 - 2024.06*, University of Shanghai for Science and Technology, Shanghai China, Bachelor of Arts (B.A.) in Advertising. 
 
 #  Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.01* Assisted Prof. Liu Xiaofeng (Central Academy of Fine Arts) in delivering a keynote on metaverse applications in cultural digitization at Digital Co-Creation: The Future of Culture and Museums in the Metaverse Era forum.
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.12 - 2023.02*, Publicis Groupe, eCommerce Media Intern, China.
+- *2022.03 - 2022.12*, Liaoning Zhongtong Construction Engineering Co. Human Resources Department, Programme Design Intern, China.
+- *2021.06 - 2021.09*, Xueersi Online School , Chinese Teaching Assistant, China.
